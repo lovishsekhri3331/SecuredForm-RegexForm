@@ -1,0 +1,16 @@
+{
+  "name": "securedform-regex",
+  "version": "1.0.0",
+  "description": "SecuredForm-Regex",
+  "main": "main.js",
+  "scripts": {
+    "lite":"lite-server",
+    "start": "npm run lite"
+
+  },
+  "author": "Lovish Sekhri",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
